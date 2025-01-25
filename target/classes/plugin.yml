@@ -1,0 +1,9 @@
+main: com.ar.askgaming.antipearl.AntiPearl
+name: AntiPearl
+version: 1.5
+author: AskGaming
+api-version: 1.20
+commands:
+  antipearl:
+    permission: antipearl.reload
+    permission-message: You do not have permission to use this command

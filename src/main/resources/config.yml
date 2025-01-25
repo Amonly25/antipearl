@@ -1,0 +1,4 @@
+disabled_worlds:
+  - example_world
+  
+msg: '&cTeleport cancelled, prevent pearl exploit.'
