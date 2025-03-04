@@ -2,3 +2,11 @@ disabled_worlds:
   - example_world
   
 msg: '&cTeleport cancelled, prevent pearl exploit.'
+
+blacklist_materials:
+- CARPET
+- BED
+- SLAB
+- STAIRS
+- HOPPER
+- DIRT_PATH
